@@ -41,7 +41,7 @@ const Newz = () => {
     <input type="text" id="search-bar" placeholder="Search any Country" onChange={handleChange} />
 
     <a href="#"  onClick ={FetchNewz}>
-        <img className="search-icon" src="http://www.endlessicons.com/wp-content/uploads/2012/12/search-icon.png" alt = "search-icon" /></a>
+        <img className="search-icon" src="image/search-icon.png" alt = "search-icon" /></a>
   </form>
   </div>
 
