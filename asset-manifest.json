@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newz-feed/static/css/main.c6cda701.css",
+    "main.js": "/newz-feed/static/js/main.169ee28e.js",
+    "index.html": "/newz-feed/index.html",
+    "main.c6cda701.css.map": "/newz-feed/static/css/main.c6cda701.css.map",
+    "main.169ee28e.js.map": "/newz-feed/static/js/main.169ee28e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6cda701.css",
+    "static/js/main.169ee28e.js"
+  ]
+}
